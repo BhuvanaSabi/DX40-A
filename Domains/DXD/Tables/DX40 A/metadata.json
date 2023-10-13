@@ -1,0 +1,24 @@
+{
+  "Cinchy Schema Version": 4.0,
+  "Description": null,
+  "Domain": "DXD",
+  "Full Name": "DXD.DX40 A",
+  "Guid": "bd493a06-c1c4-4b7f-9614-cc830172f95b",
+  "Has Erased Records": false,
+  "Icon": "fa fa-table",
+  "Icon Colour": "Indigo",
+  "Json": "\\Domains\\DXD\\Tables\\DX40 A\\table.json",
+  "Min Recycle Bin Retention Days": null,
+  "Min Retention Versions": null,
+  "Min Version Retention Days": null,
+  "Name": "DX40 A",
+  "Publish Data Change Notifications": false,
+  "Type": "Standard",
+  "Sync GUID": null,
+  "FocusColumns": "Json",
+  "ResolveLinks": {
+    "Domain": "DXD",
+    "Icon": "fa fa-table",
+    "Icon Colour": "Indigo"
+  }
+}
