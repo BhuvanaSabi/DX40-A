@@ -1,0 +1,44 @@
+[
+  {
+    "Aggregate Operation": null,
+    "Column": "BFF.DX40 A.Cinchy Id",
+    "Group By Ordinal": null,
+    "Ordinal": 1.0,
+    "Sort Ascending": false,
+    "Sort Ordinal": null,
+    "View": "View 1 (DXD.DX40 A)",
+    "Sync GUID": "18260f6c-d616-47fe-8d63-3e115889f169_18260f6c-d616-47fe-8d63-3e115889f169_6ca2f0ef-9a10-406b-b17f-bdade3e016c1",
+    "ResolveLinks": {
+      "Column": "BFF.DX40 A.Cinchy Id",
+      "View": "18260f6c-d616-47fe-8d63-3e115889f169_18260f6c-d616-47fe-8d63-3e115889f169_7133b7cc-974e-4be0-97e3-71e969431be5"
+    }
+  },
+  {
+    "Aggregate Operation": null,
+    "Column": "BFF.DX40 A.A",
+    "Group By Ordinal": null,
+    "Ordinal": 2.0,
+    "Sort Ascending": false,
+    "Sort Ordinal": null,
+    "View": "View 1 (DXD.DX40 A)",
+    "Sync GUID": "18260f6c-d616-47fe-8d63-3e115889f169_18260f6c-d616-47fe-8d63-3e115889f169_88469f7c-4dd2-4e49-b8da-2b59bbabac0d",
+    "ResolveLinks": {
+      "Column": "BFF.DX40 A.A",
+      "View": "18260f6c-d616-47fe-8d63-3e115889f169_18260f6c-d616-47fe-8d63-3e115889f169_7133b7cc-974e-4be0-97e3-71e969431be5"
+    }
+  },
+  {
+    "Aggregate Operation": null,
+    "Column": "BFF.DX40 A.Created",
+    "Group By Ordinal": null,
+    "Ordinal": 3.0,
+    "Sort Ascending": false,
+    "Sort Ordinal": null,
+    "View": "View 1 (DXD.DX40 A)",
+    "Sync GUID": "18260f6c-d616-47fe-8d63-3e115889f169_18260f6c-d616-47fe-8d63-3e115889f169_93e11f2c-0f59-486e-aaa6-3961394542f0",
+    "ResolveLinks": {
+      "Column": "BFF.DX40 A.Created",
+      "View": "18260f6c-d616-47fe-8d63-3e115889f169_18260f6c-d616-47fe-8d63-3e115889f169_7133b7cc-974e-4be0-97e3-71e969431be5"
+    }
+  }
+]
