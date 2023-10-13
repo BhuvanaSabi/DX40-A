@@ -10,7 +10,7 @@
   "Name": "DX40 A",
   "Timeout": 30.0,
   "Type": "Query (Approved Data Only)",
-  "Users With Design Access": "Administrator (admin)",
+  "Users With Design Access": null,
   "Users With Execute Access": null,
   "Sync GUID": "18260f6c-d616-47fe-8d63-3e115889f169_18260f6c-d616-47fe-8d63-3e115889f169_dfbc2e2c-487a-442b-957a-48dff4368a52",
   "FocusColumns": "CQL",
@@ -20,7 +20,7 @@
     "Groups With Execute Access": null,
     "Icon Colour": "Red",
     "Icon": "fa fa-search",
-    "Users With Design Access": "Administrator (admin)",
+    "Users With Design Access": null,
     "Users With Execute Access": null
   }
 }
