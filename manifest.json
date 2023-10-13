@@ -22,6 +22,11 @@
   {
     "Entity": "Domains",
     "Type": "metadata",
+    "Path": "\\Domains\\BFF\\metadata.json"
+  },
+  {
+    "Entity": "Domains",
+    "Type": "metadata",
     "Path": "\\Domains\\DXD\\metadata.json"
   },
   {
@@ -122,17 +127,17 @@
   {
     "Entity": "System Colours",
     "Type": "metadata",
-    "Path": "\\System Colours\\DX40 A1 Battleship Gray\\metadata.json"
+    "Path": "\\System Colours\\DX40 A Battleship Gray\\metadata.json"
   },
   {
     "Entity": "System Colours",
     "Type": "metadata",
-    "Path": "\\System Colours\\DX40 A1 Battleship Gray\\metadata.json"
+    "Path": "\\System Colours\\DX40 A Battleship Gray\\metadata.json"
   },
   {
     "Type": "model",
-    "Name": "DXDF - DX40 A - MODEL - DXD1.DX40 A.xml",
-    "Path": "\\Domains\\DXD1\\Tables\\DX40 A\\model.xml"
+    "Name": "DXDF - DX40 A - MODEL - BFF.DX40 A.xml",
+    "Path": "\\Domains\\BFF\\Tables\\DX40 A\\model.xml"
   },
   {
     "Entity": "Tables",
@@ -191,6 +196,6 @@
   },
   {
     "Type": "cinchy-version",
-    "Value": "5.7.0"
+    "Value": "5.7.1"
   }
 ]
