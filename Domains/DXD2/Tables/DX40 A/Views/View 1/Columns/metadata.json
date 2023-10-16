@@ -1,0 +1,44 @@
+[
+  {
+    "Aggregate Operation": null,
+    "Column": "DXD2.DX40 A.Cinchy Id",
+    "Group By Ordinal": null,
+    "Ordinal": 1.0,
+    "Sort Ascending": false,
+    "Sort Ordinal": null,
+    "View": "View 1 (DXD2.DX40 A)",
+    "Sync GUID": "18260f6c-d616-47fe-8d63-3e115889f169_57d0b8ea-e07f-41e9-a5e3-2ccab7ccee10_660fe4da-6ef3-466d-a00e-55f707c83c4e",
+    "ResolveLinks": {
+      "Column": "DXD2.DX40 A.Cinchy Id",
+      "View": "18260f6c-d616-47fe-8d63-3e115889f169_57d0b8ea-e07f-41e9-a5e3-2ccab7ccee10_e2b71375-a924-4832-ba7e-95d809f10fe6"
+    }
+  },
+  {
+    "Aggregate Operation": null,
+    "Column": "DXD2.DX40 A.A",
+    "Group By Ordinal": null,
+    "Ordinal": 2.0,
+    "Sort Ascending": false,
+    "Sort Ordinal": null,
+    "View": "View 1 (DXD2.DX40 A)",
+    "Sync GUID": "18260f6c-d616-47fe-8d63-3e115889f169_57d0b8ea-e07f-41e9-a5e3-2ccab7ccee10_d20845fd-570e-41a8-b30d-af1905f0ec64",
+    "ResolveLinks": {
+      "Column": "DXD2.DX40 A.A",
+      "View": "18260f6c-d616-47fe-8d63-3e115889f169_57d0b8ea-e07f-41e9-a5e3-2ccab7ccee10_e2b71375-a924-4832-ba7e-95d809f10fe6"
+    }
+  },
+  {
+    "Aggregate Operation": null,
+    "Column": "DXD2.DX40 A.Created",
+    "Group By Ordinal": null,
+    "Ordinal": 3.0,
+    "Sort Ascending": false,
+    "Sort Ordinal": null,
+    "View": "View 1 (DXD2.DX40 A)",
+    "Sync GUID": "18260f6c-d616-47fe-8d63-3e115889f169_57d0b8ea-e07f-41e9-a5e3-2ccab7ccee10_ff97212a-873a-4b85-a77d-567ca9e87397",
+    "ResolveLinks": {
+      "Column": "DXD2.DX40 A.Created",
+      "View": "18260f6c-d616-47fe-8d63-3e115889f169_57d0b8ea-e07f-41e9-a5e3-2ccab7ccee10_e2b71375-a924-4832-ba7e-95d809f10fe6"
+    }
+  }
+]
