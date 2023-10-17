@@ -4,9 +4,9 @@
   "Is Default": false,
   "Json": "",
   "Name": "View 1",
-  "Table": "QA.DX40 A",
+  "Table": "DXD2.DX40 A",
   "Users With View Access": null,
-  "Sync GUID": "18260f6c-d616-47fe-8d63-3e115889f169_003BD857-1B35-47B6-AE5D-6C132BAC21D0_93A1B14B-88F3-4FDA-92AB-963020334C8A",
+  "Sync GUID": "18260f6c-d616-47fe-8d63-3e115889f169_57d0b8ea-e07f-41e9-a5e3-2ccab7ccee10_e2b71375-a924-4832-ba7e-95d809f10fe6",
   "ResolveLinks": {
     "Groups With View Access": "All Users",
     "Table": "bd493a06-c1c4-4b7f-9614-cc830172f95b",

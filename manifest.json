@@ -27,22 +27,22 @@
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\QA\\metadata.json"
+    "Path": "\\Domains\\DXD2\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\QA\\metadata.json"
+    "Path": "\\Domains\\DXD2\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\QA\\metadata.json"
+    "Path": "\\Domains\\DXD2\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\QA\\metadata.json"
+    "Path": "\\Domains\\DXD2\\metadata.json"
   },
   {
     "Type": "metadata",
@@ -130,67 +130,67 @@
     "Path": "\\System Colours\\DX40 A Battleship Gray\\metadata.json"
   },
   {
-    "Name": "DXDF - DX40 A - MODEL - QA.DX40 A.xml",
+    "Name": "DXDF - DX40 A - MODEL - DXD2.DX40 A.xml",
     "Type": "model",
-    "Path": "\\Domains\\QA\\Tables\\DX40 A\\model.xml"
+    "Path": "\\Domains\\DXD2\\Tables\\DX40 A\\model.xml"
   },
   {
     "Type": "metadata",
     "Entity": "Tables",
-    "Path": "\\Domains\\QA\\Tables\\DX40 A\\metadata.json"
+    "Path": "\\Domains\\DXD2\\Tables\\DX40 A\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Tables",
-    "Path": "\\Domains\\QA\\Tables\\DX40 A\\metadata.json"
+    "Path": "\\Domains\\DXD2\\Tables\\DX40 A\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Table Access Control",
-    "Path": "\\Domains\\QA\\Tables\\DX40 A\\Entitlements\\metadata.json"
+    "Path": "\\Domains\\DXD2\\Tables\\DX40 A\\Entitlements\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Table Access Control",
-    "Path": "\\Domains\\QA\\Tables\\DX40 A\\Entitlements\\metadata.json"
+    "Path": "\\Domains\\DXD2\\Tables\\DX40 A\\Entitlements\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Views",
-    "Path": "\\Domains\\QA\\Tables\\DX40 A\\Views\\View 1\\metadata.json"
+    "Path": "\\Domains\\DXD2\\Tables\\DX40 A\\Views\\View 1\\metadata.json"
   },
   {
-    "Type": "metadata",
     "Entity": "Views",
-    "Path": "\\Domains\\QA\\Tables\\DX40 A\\Views\\View 1\\metadata.json"
+    "Type": "metadata",
+    "Path": "\\Domains\\DXD2\\Tables\\DX40 A\\Views\\View 1\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "View Columns",
-    "Path": "\\Domains\\QA\\Tables\\DX40 A\\Views\\View 1\\Columns\\metadata.json"
+    "Path": "\\Domains\\DXD2\\Tables\\DX40 A\\Views\\View 1\\Columns\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "View Columns",
-    "Path": "\\Domains\\QA\\Tables\\DX40 A\\Views\\View 1\\Columns\\metadata.json"
+    "Path": "\\Domains\\DXD2\\Tables\\DX40 A\\Views\\View 1\\Columns\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "View Columns",
-    "Path": "\\Domains\\QA\\Tables\\DX40 A\\Views\\View 1\\Columns\\metadata.json"
+    "Path": "\\Domains\\DXD2\\Tables\\DX40 A\\Views\\View 1\\Columns\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "View Columns",
-    "Path": "\\Domains\\QA\\Tables\\DX40 A\\Views\\View 1\\Columns\\metadata.json"
+    "Path": "\\Domains\\DXD2\\Tables\\DX40 A\\Views\\View 1\\Columns\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "View Columns",
-    "Path": "\\Domains\\QA\\Tables\\DX40 A\\Views\\View 1\\Columns\\metadata.json"
+    "Path": "\\Domains\\DXD2\\Tables\\DX40 A\\Views\\View 1\\Columns\\metadata.json"
   },
   {
-    "Value": "5.7.0",
+    "Value": "5.7.1",
     "Type": "cinchy-version"
   }
 ]
