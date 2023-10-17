@@ -1,0 +1,37 @@
+{
+  "Cinchy Schema Version": 4.0,
+  "Description": null,
+<<<<<<<< HEAD:Domains/QA/Tables/DX40 A/metadata.json
+  "Domain": "QA",
+  "Full Name": "QA.DX40 A",
+========
+  "Domain": "DXD2",
+  "Full Name": "DXD2.DX40 A",
+>>>>>>>> 812d2b7 (qa1 changed domain to DXD2):Domains/DXD2/Tables/DX40 A/metadata.json
+  "Guid": "bd493a06-c1c4-4b7f-9614-cc830172f95b",
+  "Has Erased Records": false,
+  "Icon": "fa fa-table",
+  "Icon Colour": "Indigo",
+<<<<<<<< HEAD:Domains/QA/Tables/DX40 A/metadata.json
+  "Json": "\\Domains\\QA\\Tables\\DX40 A\\table.json",
+========
+  "Json": "\\Domains\\DXD2\\Tables\\DX40 A\\table.json",
+>>>>>>>> 812d2b7 (qa1 changed domain to DXD2):Domains/DXD2/Tables/DX40 A/metadata.json
+  "Min Recycle Bin Retention Days": null,
+  "Min Retention Versions": null,
+  "Min Version Retention Days": null,
+  "Name": "DX40 A",
+  "Publish Data Change Notifications": false,
+  "Type": "Standard",
+  "Sync GUID": null,
+  "FocusColumns": "Json",
+  "ResolveLinks": {
+<<<<<<<< HEAD:Domains/QA/Tables/DX40 A/metadata.json
+    "Domain": "QA",
+========
+    "Domain": "DXD2",
+>>>>>>>> 812d2b7 (qa1 changed domain to DXD2):Domains/DXD2/Tables/DX40 A/metadata.json
+    "Icon": "fa fa-table",
+    "Icon Colour": "Indigo"
+  }
+}
