@@ -2,11 +2,7 @@
   "tableGuid": "bd493a06-c1c4-4b7f-9614-cc830172f95b",
   "tableId": 334,
   "cinchySchemaVersion": 4,
-<<<<<<<< HEAD:Domains/QA/Tables/DX40 A/table.json
-  "domainId": 29,
-========
   "domainId": 79,
->>>>>>>> 812d2b7 (qa1 changed domain to DXD2):Domains/DXD2/Tables/DX40 A/table.json
   "version": 3,
   "name": "DX40 A",
   "iconId": 4,

@@ -13,11 +13,7 @@
     "Groups": "\\Data\\Sales\\DX40 A2",
     "Install Table": true,
     "Manage Controls": false,
-<<<<<<<< HEAD:Domains/QA/Tables/DX40 A/Entitlements/metadata.json
-    "Table": "QA.DX40 A",
-========
     "Table": "DXD2.DX40 A",
->>>>>>>> 812d2b7 (qa1 changed domain to DXD2):Domains/DXD2/Tables/DX40 A/Entitlements/metadata.json
     "Users": null,
     "View All Columns": false,
     "Viewable Columns": "A",
@@ -43,7 +39,6 @@
     "Editable Columns": null,
     "Editable Row Filter": null,
     "Export Data": true,
-<<<<<<<< HEAD:Domains/QA/Tables/DX40 A/Entitlements/metadata.json
     "Groups": "\\Data\\OpsDX40 A3",
     "Install Table": true,
     "Manage Controls": false,
@@ -76,13 +71,7 @@
     "Groups": "\\Data\\Product\\DX40 A1",
     "Install Table": true,
     "Manage Controls": false,
-    "Table": "QA.DX40 A",
-========
-    "Groups": "\\Data\\Product\\DX40 A1",
-    "Install Table": true,
-    "Manage Controls": false,
     "Table": "DXD2.DX40 A",
->>>>>>>> 812d2b7 (qa1 changed domain to DXD2):Domains/DXD2/Tables/DX40 A/Entitlements/metadata.json
     "Users": null,
     "View All Columns": true,
     "Viewable Columns": null,
