@@ -125,7 +125,12 @@
     "Entity": "System Colours"
   },
   {
-    "Path": "\\System Colours\\DX40 A Battleship Gray\\metadata.json",
+    "Path": "\\System Colours\\DX40 BBattleship Gray\\metadata.json",
+    "Type": "metadata",
+    "Entity": "System Colours"
+  },
+  {
+    "Path": "\\System Colours\\DX40 BBattleship Gray\\metadata.json",
     "Type": "metadata",
     "Entity": "System Colours"
   },
@@ -190,7 +195,7 @@
     "Entity": "View Columns"
   },
   {
-    "Value": "5.7.0",
+    "Value": "5.7.1",
     "Type": "cinchy-version"
   }
 ]
